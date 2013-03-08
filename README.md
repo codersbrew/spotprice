@@ -1,0 +1,4 @@
+spotprice
+=========
+
+Spot Price Checker
